@@ -144,6 +144,25 @@ h2{
     text-align: center;
   }
 
+  .container-fluid{
+    padding: 3% 5%;
+  }
+
+  #features{
+    padding: 7% 5%%;
+  }
+
+  .carousel-item{
+    padding: 7% 5%;
+  }
+
+  #cta{
+    padding: 7% 5%;
+  }
+
+  #footer{
+    padding: 7% 5%;
+  }
     .title-image{
       width: 60%;
       position: static;
