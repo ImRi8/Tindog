@@ -148,4 +148,19 @@ h2{
 
 }
 
+/* Call to action section */
+
+#cta{
+  background-color: #ff4c68;
+  text-align: center;
+  padding: 7% 15%;
+}
+
+.cta-heading{
+  font-family: "Montserrat-black";
+  color: white;
+  font-size: 3.5rem;
+  line-height: 1.5;
+  font-weight: 700;
+}
 
