@@ -164,3 +164,13 @@ h2{
   font-weight: 700;
 }
 
+/* footer section */
+
+#footer{
+  padding: 7% 15%;
+  text-align: center;;
+}
+
+.f-icon{
+  margin: 20px 10px;
+}
