@@ -51,15 +51,19 @@ body{
 /* Title Image */
 
 .title-image{
-  width: 56%;
+  width: 24%;
   transform: rotate(25deg);
+  position: absolute;
 }
 
 /* features */
 
 #features{
   padding: 7% 13%;
+  background-color: #fff;
+  position: relative;
 }
+
 
 .feature-box{
   text-align: center;
